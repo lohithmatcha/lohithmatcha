@@ -1,0 +1,14 @@
+name: Update Pinned Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-pinned:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abhijithvijayan/pinned-gists@v2.3.0
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
