@@ -49,14 +49,14 @@
 
 ---
 
-### 🔥 Dynamic Stats & Graphs
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohithmatcha&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=lohithmatcha&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lohithmatcha&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=lohithmatcha&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohithmatcha&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
