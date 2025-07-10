@@ -9,11 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on: **SecurePassGen** & **Fiesta**
+- 🔭 Currently working on: **Spring** & **SpringBoot**
 - 🌱 Learning: `Next.js`, `Spring Boot`, `DevOps`, and `Cloud Platforms`
 - 💡 Projects built with passion and real-world use cases.
 - 🧩 Love solving DSA, exploring systems, and securing applications.
-- 📫 Reach me at: [matchashankar@gmail.com](mailto:matchashankar@gmail.com)
+- 📫 Reach me at: [shankarmatcha1979@gmail.com](mailto:shankarmatcha1979@gmail.com)
 - 🧠 Fun fact: I break stuff just to learn how to fix it better.
 
 ---
